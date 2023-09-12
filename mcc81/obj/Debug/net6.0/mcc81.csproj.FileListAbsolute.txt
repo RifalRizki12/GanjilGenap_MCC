@@ -1,0 +1,15 @@
+D:\Programer\C#_Metrodata\mcc81\bin\Debug\net6.0\mcc81.exe
+D:\Programer\C#_Metrodata\mcc81\bin\Debug\net6.0\mcc81.deps.json
+D:\Programer\C#_Metrodata\mcc81\bin\Debug\net6.0\mcc81.runtimeconfig.json
+D:\Programer\C#_Metrodata\mcc81\bin\Debug\net6.0\mcc81.dll
+D:\Programer\C#_Metrodata\mcc81\bin\Debug\net6.0\mcc81.pdb
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.AssemblyInfoInputs.cache
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.AssemblyInfo.cs
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.csproj.CoreCompileInputs.cache
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.dll
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\refint\mcc81.dll
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.pdb
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.genruntimeconfig.cache
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\ref\mcc81.dll
+D:\Programer\C#_Metrodata\mcc81\obj\Debug\net6.0\mcc81.csproj.AssemblyReference.cache
